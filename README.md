@@ -1,4 +1,5 @@
-# Socket.IO is a powerful library that enables real-time, bidirectional communication between clients and servers over WebSockets and other transport protocols. It is designed to make building real-time applications seamless by abstracting complex protocols and providing a simple API for event-driven communication.
+# What is socket.io
+Socket.IO is a powerful library that enables real-time, bidirectional communication between clients and servers over WebSockets and other transport protocols. It is designed to make building real-time applications seamless by abstracting complex protocols and providing a simple API for event-driven communication.
 
 # What is it used for?
 Socket.IO is commonly used for applications that require instant data exchange, such as:
